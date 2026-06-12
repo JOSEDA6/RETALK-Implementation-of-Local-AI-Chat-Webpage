@@ -1,0 +1,10 @@
+INFO:     Started server process [7744]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+[INFO] 前端静态文件目录：E:\毕业设计\RETALK\backend\dist
+[INFO] RETALK Backend 启动完成!
+[INFO] 数据库路径：sqlite+aiosqlite:///./retalk.db
+[INFO] Ollama 服务：http://localhost:11434
+[INFO] 模型路径：D:\Ollama\models
+INFO:     127.0.0.1:9892 - "GET /docs HTTP/1.1" 200 OK

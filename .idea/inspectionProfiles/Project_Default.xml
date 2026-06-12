@@ -1,0 +1,90 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="absl-py" />
+          <option value="aiohappyeyeballs" />
+          <option value="aiohttp" />
+          <option value="aiosignal" />
+          <option value="appdirs" />
+          <option value="atomicwrites" />
+          <option value="audioread" />
+          <option value="deep-sort-realtime" />
+          <option value="fqdn" />
+          <option value="future" />
+          <option value="graphviz" />
+          <option value="greenlet" />
+          <option value="grpcio" />
+          <option value="httplib2" />
+          <option value="httpx-aiohttp" />
+          <option value="intel-openmp" />
+          <option value="ipympl" />
+          <option value="isoduration" />
+          <option value="jiter" />
+          <option value="jsonpickle" />
+          <option value="jsonpointer" />
+          <option value="jupyterlab-language-pack-zh-CN" />
+          <option value="labelImg" />
+          <option value="librosa" />
+          <option value="matplotlib" />
+          <option value="mkl" />
+          <option value="mkl-service" />
+          <option value="nbconvert" />
+          <option value="openai" />
+          <option value="opencv-python" />
+          <option value="pdfkit" />
+          <option value="pillow" />
+          <option value="plantuml" />
+          <option value="playwright" />
+          <option value="pooch" />
+          <option value="propcache" />
+          <option value="protobuf" />
+          <option value="pyasn1-modules" />
+          <option value="pycurl" />
+          <option value="pyee" />
+          <option value="pyls-spyder" />
+          <option value="pypinyin" />
+          <option value="pyppeteer" />
+          <option value="PyQt5" />
+          <option value="PyQt5-Qt5" />
+          <option value="PyQt5_sip" />
+          <option value="PyQtWebEngine" />
+          <option value="pyvis" />
+          <option value="pywin32" />
+          <option value="redis" />
+          <option value="scikit-surprise" />
+          <option value="soundfile" />
+          <option value="sources" />
+          <option value="soxr" />
+          <option value="spotipy" />
+          <option value="sympy" />
+          <option value="tbb" />
+          <option value="tensorboard" />
+          <option value="tensorboard-data-server" />
+          <option value="torch" />
+          <option value="torchaudio" />
+          <option value="torchvision" />
+          <option value="ultralytics" />
+          <option value="ultralytics-thop" />
+          <option value="uri-template" />
+          <option value="urllib3" />
+          <option value="webcolors" />
+          <option value="websockets" />
+          <option value="wheel" />
+          <option value="wordcloud" />
+          <option value="yarl" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="langchain.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

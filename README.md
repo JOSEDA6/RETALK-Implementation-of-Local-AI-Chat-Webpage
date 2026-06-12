@@ -3,8 +3,28 @@
 基于 **RAG（检索增强生成）** 架构的本地化 AI 对话平台。上传论文、报告等学术文档，AI 基于文档内容回答问题，**每句话标注引用来源**——所有数据与模型均在本地运行，无需联网。
 
 <p align="center">
-  <img src="frontend/src/assets/hero.png" alt="RETALK Hero" width="600">
+  <img src="screenshots/Hero.png" alt="RETALK Hero" width="800">
 </p>
+
+---
+
+## 📸 界面预览
+
+### 用户认证
+
+| 登录 | 注册 |
+|:---:|:---:|
+| ![登录](screenshots/RETALK登录页面.png) | ![注册](screenshots/RETALK用户注册页面.png) |
+
+### 主界面
+
+| 知识库管理 | 对话页面 |
+|:---:|:---:|
+| ![知识库](screenshots/RETALK侧边栏知识库截图.png) | ![对话](screenshots/RETALK对话页面.png) |
+
+| 主页面概览 | 对话+侧边栏 |
+|:---:|:---:|
+| ![主页](screenshots/main.png) | ![对话侧栏](screenshots/RETALK对话页面侧边栏截图.png) |
 
 ---
 
